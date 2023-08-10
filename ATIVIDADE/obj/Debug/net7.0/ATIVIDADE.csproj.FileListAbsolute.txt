@@ -1,0 +1,14 @@
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\bin\Debug\net7.0\ATIVIDADE.exe
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\bin\Debug\net7.0\ATIVIDADE.deps.json
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\bin\Debug\net7.0\ATIVIDADE.runtimeconfig.json
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\bin\Debug\net7.0\ATIVIDADE.dll
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\bin\Debug\net7.0\ATIVIDADE.pdb
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.AssemblyInfoInputs.cache
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.AssemblyInfo.cs
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.csproj.CoreCompileInputs.cache
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.dll
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\refint\ATIVIDADE.dll
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.pdb
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ATIVIDADE.genruntimeconfig.cache
+C:\Users\betsy\Documents\Curso SENAI\_SENAI\atividade\obj\Debug\net7.0\ref\ATIVIDADE.dll
