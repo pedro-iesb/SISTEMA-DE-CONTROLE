@@ -6,7 +6,7 @@ class Program
 static void Main(string[] args)
 {
     float val_pag;
-Console.WriteLine("Informar Nome");
+Console.WriteLine("Informar seu Nome");
 string var_nome = Console.ReadLine();
 Console.WriteLine("Informar Endereço");
 string var_endereco = Console.ReadLine();
